@@ -2,6 +2,10 @@
 **Course:** Dynamiska Webbapplikationer 1 (Dynamic Web Applications 1)  
 **University:** University of Borås  
 **Type:** Group assignment (Group 45)
+**Date:** Spring Term 2024 (VT2024)
+
+### 🔗 Live Demo  
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit-blue)](https://yvettebaker90.github.io/assignment-2-web-development/)
 
 This repository contains Assignment 2 from the course *Dynamiska Webbapplikationer 1* at the University of Borås.  
 The task was to build a small dynamic shopping list application using **JavaScript**, **DOM manipulation**, and a **data-driven structure**.
@@ -32,11 +36,11 @@ The purpose of the assignment was to demonstrate:
 ---
 
 ## 📦 Technologies Used
- ● HTML5  
- ● CSS3  
- ● JavaScript (vanilla ES5/ES6)  
- ● Bootstrap CSS  
- ● Bootstrap Icons  
+- HTML5
+-  CSS3
+- JavaScript (vanilla ES5/ES6)
+- Bootstrap CSS
+- Bootstrap Icons  
 
 ---
 
@@ -69,9 +73,11 @@ const listItems = [
 - price
 - unit
 - a button to add it to the shopping list
+
 Nothing is hardcoded in the HTML - the interface is generated from this data.
 
-🎯 **Implementation Summary**
+## 🎯 **Implementation Summary**
+
 To complete this assignment, we implemented:
 - generating product elements using DOM methods
 - event listeners for add buttons
@@ -79,11 +85,13 @@ To complete this assignment, we implemented:
 - a calculation function that multiplies product price by quantity
 - dynamic output of total items and cost
 
-👥 **Group Work**
+## 👥 **Group Work**
+
 This project was completed collaboratively as part of Assignment 2 in the course Dynamiska Webbapplikationer 1.
 All group members contributed to the planning, functionality, structure, and documentation of the application.
 
-📝 **Educational Purpose**
+## 📝 **Educational Purpose**
+
 This repository is published for educational and portfolio purposes, demonstrating early experience with:
 - DOM-based rendering
 - data-driven web interfaces
